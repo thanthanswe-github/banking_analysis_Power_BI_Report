@@ -11,5 +11,4 @@ Canada,China,India, British,US,Japan and South Africa).It has created by the fol
   4.  Display the various sectors in employment(%) by year.
 
 
-You can also go through a banking analysis report link here : 
-https://app.powerbi.com/view?r=eyJrIjoiMGNlYTRjZjctMjQ0Yi00YTIyLWEzM2YtMjkxYWM4MmQ5YTc2IiwidCI6IjM5ZTkwMGQxLTRjYTMtNDFmNC05NWJkLTdjNDI4MzRmYWU4YiIsImMiOjEwfQ%3D%3D
+You can also go through a banking analysis report link here : https://app.powerbi.com/view?r=eyJrIjoiMTJhNDgyZjctZGRhNC00Mjg3LWFhMDAtNzhiYmY0NWQ0ZmVhIiwidCI6ImY0YzIyYjFlLTU4MjItNDdmYS1hYzg1LWIyOTM1M2I1NTgzYSIsImMiOjEwfQ%3D%3D
